@@ -5,22 +5,22 @@
 //#include <ext/pb_ds/trie_policy.hpp>
 //using namespace __gnu_pbds;
 using namespace std;
-#define ll 				    long long int
-#define ld				    long double
+#define ll 		    long long int
+#define ld		    long double
 #define mod                 1000000007
 #define inf                 1e18
-#define endl			    "\n"
-#define pb 				    push_back
+#define endl		    "\n"
+#define pb 		    push_back
 #define vi                  <ll>
-#define vs				    vector<string>
+#define vs		    vector<string>
 #define pii                 pair<ll,ll>
-#define ump				    unordered_map
-#define mp 				    make_pair
+#define ump		    unordered_map
+#define mp 		    make_pair
 #define pq_max              priority_queue<ll>
 #define pq_min              priority_queue<ll,vi,greater<ll> >
-#define all(n) 			    n.begin(),n.end()
-#define ff 				    first
-#define ss 				    second
+#define all(n) 		    n.begin(),n.end()
+#define ff 		    first
+#define ss 		    second
 #define mid(l,r)            (l+(r-l)/2)
 #define bitc(n) 			__builtin_popcount(n)
 #define loop(i,a,b) 		for(int i=(a);i<=(b);i++)
@@ -70,10 +70,4 @@ int main(int argc, char const *argv[]) {
 	#endif 
 	return 0;
 }
-
-
-
-
-
-
 
